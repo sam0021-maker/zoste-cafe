@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Veg Pizza",
+    "price": 199,
+    "imageUrl": "https://i.imgur.com/U4JkSRs.png"
+  },
+  {
+    "name": "Cold Coffee",
+    "price": 79,
+    "imageUrl": "https://i.imgur.com/HMfH2U4.png"
+  }
+]
