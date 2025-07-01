@@ -1,0 +1,12 @@
+{
+  "restaurantName": "Zostel Café Goa",
+  "location": "Anjuna, Goa",
+  "currency": "INR",
+  "openHours": "9:00 AM – 11:00 PM",
+  "contactNumber": "+91 9876543210",
+  "showOffers": true,
+  "taxPercentage": 5,
+  "menuVersion": "1.0",
+  "themeColor": "#FF5722",
+  "onlineOrderingEnabled": true
+}
